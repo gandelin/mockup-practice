@@ -1,0 +1,48 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: darkgray;
+}
+
+.main-content {
+  background-color: mediumpurple;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-size: .8rem;
+  line-height: .25rem;
+}
+
+.contact-info {
+  text-align: left;
+}
+
+h1 {
+  color: white;
+}
+
+header h3 {
+  color: gray;
+}
+
+aside h3 {
+  text-align: center;
+  font-size: 1.25rem;
+}
+section h2 {
+  color: red;
+}
+
+.book-link {
+  color: red;
+  text-align: right;
+}
+
+.cat-caption {
+  text-align: center;
+  font-size: 1.25rem;
+}
