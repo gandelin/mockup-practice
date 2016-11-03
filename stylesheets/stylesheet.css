@@ -12,11 +12,25 @@ body {
 
 footer {
   color: white;
+  background-color: black;
   text-align: center;
   font-size: .8rem;
   line-height: .25rem;
+  padding 10px;
+  margin 10px 0px 0px 0px;
 }
 
+header section {
+  background-color: black;
+  margin: 0px 0px 10px 0px;
+  padding: 10px;
+}
+
+.cat-footer {
+  background-color: black;
+  margin: 10px 0px 0px 0px;
+  padding: 10px;  
+}
 .contact-info {
   text-align: left;
 }
@@ -27,6 +41,19 @@ h1 {
 
 header h3 {
   color: gray;
+}
+
+article {
+  background-color: white;
+  margin: 0px;
+  padding: 10px;
+}
+
+aside {
+  background-color: white;
+  border-style: solid;
+  border-width: 3px;
+  border-color: grey;
 }
 
 aside h3 {
@@ -40,6 +67,10 @@ section h2 {
 .book-link {
   color: red;
   text-align: right;
+}
+
+.email-link {
+  color: red;
 }
 
 .cat-caption {
